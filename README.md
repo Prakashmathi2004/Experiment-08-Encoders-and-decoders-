@@ -122,7 +122,7 @@ ENCODER:
 
 ![image](https://user-images.githubusercontent.com/118350045/214312286-eb5ab0d9-fcd7-4cf8-a507-41050ab518d8.png)
 
-DECODER:
+DECODER:     
 
 ![image](https://user-images.githubusercontent.com/118350045/214312377-37868119-4d2a-4e53-92fe-114dffcb5123.png)
 
@@ -135,7 +135,8 @@ ENCODER:
 
 ![image](https://user-images.githubusercontent.com/118350045/214312488-fad023ff-d554-40fc-9266-f36ec02d3f4a.png)
 
-DECODER:
+DECODER:   
+
 ![image](https://user-images.githubusercontent.com/118350045/214312563-11281ae1-240a-4e9c-b042-cb0dda4c6bb1.png)
 
 
